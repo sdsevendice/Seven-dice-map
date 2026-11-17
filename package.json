@@ -1,0 +1,9 @@
+{
+  "name": "seven-dice-map",
+  "version": "1.7.0",
+  "private": true,
+  "description": "Seven Dice — Карты и переходы для Foundry VTT 14",
+  "scripts": {
+    "test": "node --test"
+  }
+}

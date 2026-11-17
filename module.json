@@ -1,0 +1,27 @@
+{
+  "id": "margora-passages",
+  "title": "Seven Dice — Карты и переходы",
+  "description": "Библиотека карт, редактор переходов и ручная схема связанных сцен для Foundry VTT.",
+  "version": "1.7.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.370",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Seven Dice"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/editor.css",
+    "styles/studio.css",
+    "styles/workspace.css"
+  ],
+  "languages": [],
+  "socket": false,
+  "url": "https://github.com/sdsevendice/Seven-dice-map"
+}
