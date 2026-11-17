@@ -23,5 +23,7 @@
   ],
   "languages": [],
   "socket": false,
-  "url": "https://github.com/sdsevendice/Seven-dice-map"
+  "url": "https://github.com/sdsevendice/Seven-dice-map",
+  "manifest": "https://raw.githubusercontent.com/sdsevendice/Seven-dice-map/main/module.json",
+  "download": "https://github.com/sdsevendice/Seven-dice-map/archive/refs/tags/v1.7.0.zip"
 }
